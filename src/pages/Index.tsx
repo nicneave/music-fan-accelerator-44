@@ -202,7 +202,7 @@ const Index = () => {
                   ))}
                 </div>
                 <blockquote className="text-lg mb-4">
-                  "Our ads got more traction than our label's rollout — 
+                  "Our ads got more traction than our label's rollout — {" "}
                   <span className="text-primary font-bold">this system just works</span>."
                 </blockquote>
                 <cite className="text-muted-foreground">— Anonymous Label Exec</cite>

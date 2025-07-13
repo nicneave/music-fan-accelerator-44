@@ -252,7 +252,7 @@ const IndexVariation = () => {
                   ))}
                 </div>
                 <blockquote className="text-base mb-4 italic">
-                  "Started with one merch design. Now making <span className="text-primary font-bold">$500/month</span> 
+                  "Started with one merch design. Now making <span className="text-primary font-bold">$500/month</span>{" "}
                   with a fanbase that actually buys my stuff."
                 </blockquote>
                 <cite className="text-sm text-muted-foreground font-medium">Milo J, Hip-Hop</cite>
